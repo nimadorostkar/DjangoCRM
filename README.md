@@ -51,7 +51,7 @@ A Django CRM in which you can create, update or delete Product, Orders and Conta
 ### Clone this repository
 
 ```
-git clone https://github.com/masoodmomin/teal-crm.git
+git clone https://github.com/nimadorostkar/DjangoCRM.git
 ```
 
 ### Dependencies
