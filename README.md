@@ -1,5 +1,5 @@
-# Teal CRM
-Teal CRM is a CRM made in Django. It has a teal color Dashboard.
+# Dj CRM
+
 A Django CRM in which you can create, update or delete Product, Orders and Contacts. You can also filter and search. You can also add task for reminder.
 
 +  Create, update or delete Product, Orders and Contacts.
