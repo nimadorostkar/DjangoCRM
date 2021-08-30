@@ -56,13 +56,13 @@ git clone https://github.com/nimadorostkar/DjangoCRM.git
 
 ### Dependencies
 ```
-django-filter=2.4.0
+django-filter
 ```
 ### Run the following commands to get started:
 
 ```
 pip install django django-filter
-python manage.py makemigrations crm tasks
-python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate --run-syncdb
 python manage.py runserver
 ```
